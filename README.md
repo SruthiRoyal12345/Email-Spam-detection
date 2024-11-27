@@ -1,0 +1,1 @@
+In this project three models are trained to detect spammed emails on data set obtained from Kaggle. Those models are Decision Tree Classifier, Naive Bayes(Gaussian), and Naive Bayes Multinomial. Upon Comparison of the models, Naive Bayes Multinomial has the best perfromance with 98% accuracy on test data set.
